@@ -1,0 +1,9 @@
+{
+    "authority": "https://login.microsoftonline.com/YOUR_TENANT",
+    "_authority_comment": "My tenant was something like xyz.onmicrosoft.com",
+    "sharepoint_scope": [ "https://graph.microsoft.com/.default" ],
+    "graph_sites": "https://graph.microsoft.com/v1.0/sites/UNIQUEVALUE.sharepoint.com,de16bef7-e6fe-47c1-89bc-dcbfa1eccc2b,6a512d11-1293-4a1d-a3dd-2ba3f86b4cac/drives",
+    "sharepoint_client_id": "APPLICATION CLIENT ID GUID FROM AZURE OVERVIEW PAGE",
+    "sharepoint_client_sct_value": "CLIENT SECRET VALUE FROM AZURE CLIENT",
+    "_sharepoint_client_sct_value": "You should have documented this eariler because now it is not available in the portal"
+}
